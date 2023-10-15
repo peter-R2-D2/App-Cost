@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Control de Xbox / pago 1",
+    "type": "personal",
+    "shop_place": "Mercado Libre",
+    "buy_on_credit": true,
+    "partial_deadline": 3,
+    "payment_type": "month",
+    "total_to_pay": 1200,
+    "partial_to_pay": 400,
+    "start_date": "",
+    "end_date": "",
+    "paid": false
+  },
+  {
+    "id": 2,
+    "name": "Control de Xbox / pago 2",
+    "type": "personal",
+    "shop_place": "Mercado Libre",
+    "buy_on_credit": true,
+    "partial_deadline": 3,
+    "payment_type": "month",
+    "total_to_pay": 1200,
+    "partial_to_pay": 400,
+    "start_date": "",
+    "end_date": "",
+    "paid": false
+  },
+  {
+    "id": 3,
+    "name": "Control de Xbox / pago 3",
+    "type": "personal",
+    "shop_place": "Mercado Libre",
+    "buy_on_credit": true,
+    "partial_deadline": 3,
+    "payment_type": "month",
+    "total_to_pay": 1200,
+    "partial_to_pay": 400,
+    "start_date": "",
+    "end_date": "",
+    "paid": false
+  }
+]
